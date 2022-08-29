@@ -1,0 +1,13 @@
+<map id="/home/build/sdk/c/ifxAvian/DeviceConfig.h" name="/home/build/sdk/c/ifxAvian/DeviceConfig.h">
+<area shape="rect" id="node1" title="API for Radar device configuration." alt="" coords="298,5,492,47"/>
+<area shape="rect" id="node2" href="$_avian_8h.html" title=" " alt="" coords="231,273,426,315"/>
+<area shape="rect" id="node4" href="$_constant_wave_control_8h.html" title="Header for Constant Wave Control. It provides APIs to use an Avian device in constant wave mode...." alt="" coords="28,184,223,225"/>
+<area shape="rect" id="node5" href="$_device_control_8h.html" title="API for Radar device control operations." alt="" coords="298,95,492,136"/>
+<area shape="rect" id="node8" href="$_presence_sensing_8h.html" title="API for Presence Sensing algorithm." alt="" coords="736,184,932,225"/>
+<area shape="rect" id="node10" href="$_segmentation_8h.html" title="API for Segmentation algorithm." alt="" coords="786,95,1006,136"/>
+<area shape="rect" id="node3" href="$_s_d_k_8h.html" title="Master header file for Radar SDK." alt="" coords="620,363,816,404"/>
+<area shape="rect" id="node6" href="$_metrics_8h.html" title="API for Metrics." alt="" coords="298,184,492,225"/>
+<area shape="rect" id="node7" href="$_shapes_8h.html" title=" " alt="" coords="516,184,711,225"/>
+<area shape="rect" id="node9" href="$_radar_8h.html" title="Header for ifxRadar." alt="" coords="620,273,816,315"/>
+<area shape="rect" id="node11" href="$_radar_segmentation_8h.html" title="Header for ifxRadarSegmentation." alt="" coords="840,273,1099,315"/>
+</map>

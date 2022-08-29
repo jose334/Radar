@@ -1,0 +1,13 @@
+<map id="/home/build/sdk/c/ifxRadar/RangeSpectrum.h" name="/home/build/sdk/c/ifxRadar/RangeSpectrum.h">
+<area shape="rect" id="node1" title="API for Range Spectrum." alt="" coords="282,5,478,47"/>
+<area shape="rect" id="node2" href="$_preprocessed_f_f_t_8h.html" title="API for Pre&#45;processed FFT." alt="" coords="138,95,331,121"/>
+<area shape="rect" id="node4" href="$_types_8h.html" title="Definitions of data types used within the SDK." alt="" coords="115,319,239,345"/>
+<area shape="rect" id="node8" href="$_vector_8h.html" title="API for operations on Vector data structures." alt="" coords="215,244,342,271"/>
+<area shape="rect" id="node9" href="$_window_8h.html" title="API for Window function processing." alt="" coords="312,169,447,196"/>
+<area shape="rect" id="node11" href="$_matrix_8h.html" title="API for operations on Matrix data structures." alt="" coords="523,169,652,196"/>
+<area shape="rect" id="node3" href="$_f_f_t_8h.html" title="API for Fast Fourier Transform (FFT)" alt="" coords="181,169,288,196"/>
+<area shape="rect" id="node10" href="$_math_8h.html" title="API for Mathematical operations." alt="" coords="37,169,157,196"/>
+<area shape="rect" id="node5" title=" " alt="" coords="44,393,115,420"/>
+<area shape="rect" id="node6" title=" " alt="" coords="140,393,214,420"/>
+<area shape="rect" id="node7" title=" " alt="" coords="238,393,321,420"/>
+</map>

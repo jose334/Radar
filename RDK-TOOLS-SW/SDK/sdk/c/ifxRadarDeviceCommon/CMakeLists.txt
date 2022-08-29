@@ -1,0 +1,10 @@
+find_package(Doxygen)
+
+set(sdk_radar_device_common_src RadarDeviceCommon.cpp RadarDeviceCommon.h internal/RadarDeviceCommon.hpp AcquisitionState.cpp internal/AcquisitionState.hpp internal/RfShieldEeprom.cpp internal/RfShieldEeprom.hpp)
+
+add_library(sdk_radar_device_common_obj OBJECT ${sdk_radar_device_common_src})
+target_include_directories(sdk_radar_device_common_obj PUBLIC ..)
+target_compile_definitions(sdk_radar_device_common_obj PUBLIC radar_sdk_EXPORTS=1)
+
+target_link_libraries(sdk_radar_device_common_obj PUBLIC sdk_base_obj)
+target_link_libraries(sdk_radar_device_common_obj PRIVATE strata_static lib_avian_static)

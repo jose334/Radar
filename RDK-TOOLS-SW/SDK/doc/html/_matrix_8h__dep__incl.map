@@ -1,0 +1,25 @@
+<map id="/home/build/sdk/c/ifxBase/Matrix.h" name="/home/build/sdk/c/ifxBase/Matrix.h">
+<area shape="rect" id="node1" title="API for operations on Matrix data structures." alt="" coords="777,5,967,47"/>
+<area shape="rect" id="node2" href="$2_d_m_t_i_8h.html" title="API for 2D Moving Target Indicator filter (2DMTI)" alt="" coords="5,95,192,136"/>
+<area shape="rect" id="node5" href="$_o_s_c_f_a_r_8h.html" title="API for 2D ordered statistic constant false alarm rate (OS&#45;CFAR) algorithm." alt="" coords="216,95,403,136"/>
+<area shape="rect" id="node6" href="$_signal_8h.html" title="API for digital filtering operations." alt="" coords="427,95,613,136"/>
+<area shape="rect" id="node7" href="$_base_8h.html" title="Header for ifxAvian." alt="" coords="499,184,690,225"/>
+<area shape="rect" id="node8" href="$_cube_8h.html" title="API for operations on Cube data structures." alt="" coords="1123,95,1314,136"/>
+<area shape="rect" id="node14" href="$_presence_sensing_8h.html" title="API for Presence Sensing algorithm." alt="" coords="934,273,1130,315"/>
+<area shape="rect" id="node19" href="$_segmentation_8h.html" title="API for Segmentation algorithm." alt="" coords="1749,184,1969,225"/>
+<area shape="rect" id="node21" href="$_l_a_8h.html" title="API for Linear Algebra (LA)" alt="" coords="687,102,910,129"/>
+<area shape="rect" id="node22" href="$_range_doppler_map_8h.html" title="API for Range Doppler Map." alt="" coords="1529,184,1725,225"/>
+<area shape="rect" id="node23" href="$_range_spectrum_8h.html" title="API for Range Spectrum." alt="" coords="985,184,1181,225"/>
+<area shape="rect" id="node3" href="$_algo_8h.html" title="Header for ifxAlgo." alt="" coords="131,184,317,225"/>
+<area shape="rect" id="node4" href="$_s_d_k_8h.html" title="Master header file for Radar SDK." alt="" coords="386,452,582,493"/>
+<area shape="rect" id="node9" href="$_device_control_8h.html" title="API for Radar device control operations." alt="" coords="715,184,909,225"/>
+<area shape="rect" id="node16" href="$_angle_capon_8h.html" title="API for Angle Capon algorithm." alt="" coords="1206,273,1402,315"/>
+<area shape="rect" id="node17" href="$_d_b_f_8h.html" title="API for Digital Beamforming (DBF) algorithm." alt="" coords="1257,184,1453,225"/>
+<area shape="rect" id="node18" href="$_range_angle_image_8h.html" title="API for Range Angle Image algorithm." alt="" coords="1478,273,1674,315"/>
+<area shape="rect" id="node10" href="$_avian_8h.html" title=" " alt="" coords="387,363,581,404"/>
+<area shape="rect" id="node11" href="$_constant_wave_control_8h.html" title="Header for Constant Wave Control. It provides APIs to use an Avian device in constant wave mode...." alt="" coords="277,273,472,315"/>
+<area shape="rect" id="node12" href="$_metrics_8h.html" title="API for Metrics." alt="" coords="496,273,691,315"/>
+<area shape="rect" id="node13" href="$_shapes_8h.html" title=" " alt="" coords="715,273,909,315"/>
+<area shape="rect" id="node15" href="$_radar_8h.html" title="Header for ifxRadar." alt="" coords="1206,363,1402,404"/>
+<area shape="rect" id="node20" href="$_radar_segmentation_8h.html" title="Header for ifxRadarSegmentation." alt="" coords="1577,363,1836,404"/>
+</map>

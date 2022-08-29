@@ -1,0 +1,19 @@
+<map id="/home/build/sdk/c/ifxAvian/Shapes.h" name="/home/build/sdk/c/ifxAvian/Shapes.h">
+<area shape="rect" id="node1" title=" " alt="" coords="29,5,224,47"/>
+<area shape="rect" id="node2" href="$_types_8h.html" title="Definitions of data types used within the SDK." alt="" coords="231,483,355,509"/>
+<area shape="rect" id="node6" href="$_device_control_8h.html" title="API for Radar device control operations." alt="" coords="157,95,339,121"/>
+<area shape="rect" id="node3" title=" " alt="" coords="161,557,231,584"/>
+<area shape="rect" id="node4" title=" " alt="" coords="256,557,331,584"/>
+<area shape="rect" id="node5" title=" " alt="" coords="355,557,437,584"/>
+<area shape="rect" id="node7" href="$_error_8h.html" title="API for error handling." alt="" coords="93,169,211,196"/>
+<area shape="rect" id="node10" href="$_list_8h.html" title=" " alt="" coords="145,408,255,435"/>
+<area shape="rect" id="node11" href="$_cube_8h.html" title="API for operations on Cube data structures." alt="" coords="293,169,413,196"/>
+<area shape="rect" id="node16" href="$_device_config_8h.html" title="API for Radar device configuration." alt="" coords="458,169,635,196"/>
+<area shape="rect" id="node17" href="$_radar_device_common_8h.html" title="Header for ifxRadarDeviceCommon." alt="" coords="584,244,765,285"/>
+<area shape="rect" id="node8" href="$_log_8h.html" title="API for logging." alt="" coords="97,251,207,278"/>
+<area shape="rect" id="node9" title=" " alt="" coords="144,333,211,360"/>
+<area shape="rect" id="node12" href="$_defines_8h.html" title="Internal definitions used by standard math.h functions as Macros, to use float or double precision." alt="" coords="285,251,421,278"/>
+<area shape="rect" id="node15" href="$_matrix_8h.html" title="API for operations on Matrix data structures." alt="" coords="379,333,509,360"/>
+<area shape="rect" id="node13" href="$_math_8h.html" title="API for Mathematical operations." alt="" coords="287,333,355,360"/>
+<area shape="rect" id="node14" href="$_vector_8h.html" title="API for operations on Vector data structures." alt="" coords="331,408,458,435"/>
+</map>

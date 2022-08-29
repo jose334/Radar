@@ -1,0 +1,27 @@
+var searchData=
+[
+  ['aaf_5fcutoff_1',['aaf_cutoff',['../structifx___avian___baseband___config__t.html#ab36c04bd6bd930b577f20a3e27b0ad6c',1,'ifx_Avian_Baseband_Config_t']]],
+  ['absence_5fconfirm_5fcount_2',['absence_confirm_count',['../structifx___presence_sensing___config__t.html#ad77c0022999d8fa9617e9fbdbd1c6984',1,'ifx_PresenceSensing_Config_t']]],
+  ['acos_3',['ACOS',['../_defines_8h.html#ac0968392c2b2fc716807863a5fa7d5f1',1,'Defines.h']]],
+  ['acosh_4',['ACOSH',['../_defines_8h.html#a59cbf0d6978a854ccf1ee403eecc2f2f',1,'Defines.h']]],
+  ['adc_5fconfigs_5',['adc_configs',['../structifx___avian___c_w___config__t.html#a07242fe4541a69969c950e5eda3d6932',1,'ifx_Avian_CW_Config_t']]],
+  ['algo_2eh_6',['Algo.h',['../_algo_8h.html',1,'']]],
+  ['alpha_5fmti_5ffilter_7',['alpha_mti_filter',['../structifx___r_a_i___config__t.html#a80de69621f2a4b7b91c1850b5f089782',1,'ifx_RAI_Config_t::alpha_mti_filter()'],['../structifx___r_a_i___opt___config__s.html#a9c2306caa785b9990a5a7aa4a072459e',1,'ifx_RAI_Opt_Config_s::alpha_mti_filter()']]],
+  ['angle_8',['angle',['../structifx___polar__s.html#aca49efab93f478d86316c1a7c46d1070',1,'ifx_Polar_s']]],
+  ['anglecapon_2eh_9',['AngleCapon.h',['../_angle_capon_8h.html',1,'']]],
+  ['anglemonopulse_2eh_10',['AngleMonopulse.h',['../_angle_monopulse_8h.html',1,'']]],
+  ['antenna_5fsetup_11',['antenna_setup',['../structifx___avian___chirp___config__s.html#addea3299b3ce9eafdc4232c97f93477f',1,'ifx_Avian_Chirp_Config_s']]],
+  ['asin_12',['ASIN',['../_defines_8h.html#a2fefd27702dc315df5aa8418055b9576',1,'Defines.h']]],
+  ['asinh_13',['ASINH',['../_defines_8h.html#a04831b544add9b3a8edbfb17694cbc58',1,'Defines.h']]],
+  ['at_5fdb_14',['at_dB',['../structifx___window___config__t.html#ac40eb9bf21e8114b41a81ac85aff1f4c',1,'ifx_Window_Config_t']]],
+  ['atan_15',['ATAN',['../_defines_8h.html#a417dfa30ded09b26e9d0216adccab21e',1,'Defines.h']]],
+  ['atan2_16',['ATAN2',['../_defines_8h.html#ac0c1f033adeb97850cce1712ad1b09e2',1,'Defines.h']]],
+  ['avian_2eh_17',['Avian.h',['../_avian_8h.html',1,'']]],
+  ['azimuth_5fangle_18',['azimuth_angle',['../structifx___target__t.html#a12f26202282051a3ff120d1becf531db',1,'ifx_Target_t']]],
+  ['angle_20capon_19',['Angle Capon',['../group__gr__anglecapon.html',1,'']]],
+  ['angle_20monopulse_20',['Angle Monopulse',['../group__gr__anglemonopulse.html',1,'']]],
+  ['algorithms_20_28ifxalgo_29_21',['Algorithms (ifxAlgo)',['../group__gr__cat___algorithms.html',1,'']]],
+  ['avian_20radar_20sensor_20_28ifxavian_29_22',['Avian Radar Sensor (ifxAvian)',['../group__gr__cat___avian.html',1,'']]],
+  ['about_20this_20document_23',['About this Document',['../index.html',1,'']]],
+  ['algorithms_20supported_20by_20radar_20sdk_24',['Algorithms supported by Radar SDK',['../pg_radarsdk_algorithms.html',1,'']]]
+];

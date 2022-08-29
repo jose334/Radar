@@ -1,0 +1,150 @@
+# Changelog
+
+## 2.5.5
+
+- Added support for Avian E silicon
+
+## 2.5.4
+
+- Added virtual readout address for detections of LTR11
+
+## 2.5.3
+
+- Allow to configure up to 4 interrupts simultaneously in the data interface
+- Fixed 2nd shield connector pin definition
+- Fixed 2nd shield connector detection bug
+
+## 2.5.2
+
+- Fixed MCU Rev. A I2C clear bus workaround
+- Added additional LED error code for error during detection of shield/radar chip
+
+## 2.5.1
+
+- Added hard-reset before detecting Avian chips
+- Added batch functionality to register interface
+- Fixed LED color for undetected shield error
+
+## 2.5.0
+
+- Added support for additional devices: ATR22 and LTR11
+- Refactored shield detection due to different types of shields without EEPROM:
+  1) Check for shield connector error
+    mirrored connection can only be detected if the shield has I2C pull-ups
+    other unexpected levels on OC pins are interpreted as unsupported shield connection
+  2) Check presence of known devices using SPI and I2C
+    Try reading the chip ID of Avian, if successful, instantiate its driver
+    Else try reading the chip ID of LTR11, if successful, instantiate its driver
+    Else try reading the chip ID of ATR22, if successful, instantiate its driver
+  3) Continue with normal initialization, so that even without a detected chip, I2C, SPI, GPIO, etc. are usable
+
+## 2.4.0
+
+- Improved performance of Avian data handling
+- I2c and shield connector interfaces modified to support multiple buses
+- Changes to Avian interface for FW-only use (which break compatibility to previous version)
+
+## 2.3.0
+
+- Refactored SPI interface: Implementation now supports both single and quad
+  SPI.
+- The LED indicates error states as documented in Application Note 599.
+- chrono_microseconds now rounds up. This fixes problems when the desired time
+  is smaller than the time resolution available.
+- Fixed FIFO underflows caused by pending BGT interrupts.
+- A dedicated command interface for Avian devices is used now instead of the
+  generic register interface. This avoids modifying data in memory before sending
+  it to an Avian device, making it also easier to store config sequences directly
+  in static memory.
+
+## 2.2.0
+
+- Fixed race condition that caused sending corrupted data to the host.
+
+## 2.1.0
+
+- Changes to packing/unpacking of radar data which break compatibility to
+  previous version.
+
+## 2.0.1
+
+Switched from commlib to Strata. Please note that the versions 1.x and 2.x are
+incompatible.
+
+## 1.1.6
+
+- Support for BGT60UTR11.
+
+## 1.1.5
+
+- BGT60LTR11:
+    * After successfull initialization, the LED of the RadarBaseboardMCU7 is
+      now green.
+    * In pulse mode and with external ADCs (of the RadarBaseboardMCU7) the sample
+      is read from the LTR11 now about 50us after the end of the pulse.
+    * The scaling of the raw data has been changed.
+
+## 1.1.4
+
+- Updated driver to 0.8.14: It is now possible to disable all antennas in a
+  chirp
+- BGT60LTR11 now starts in pulse mode
+
+## 1.1.3
+
+- Updated driver to 0.8.13: Added support for BGT60TR11D
+- Bugfix: Fixed swapped idle and deep sleep parameter update
+
+## 1.1.2
+
+- BGT60LTR11: various bugfixes
+
+## 1.1.1
+
+- BGT60LTR11
+  * Support for selecting ADC source (ADCs of either RadarbaseBoardMCU7 or
+    BGT60LTR11)
+  * Startup settings have been changed to increase sensitivity
+  * Bugfix: Movements (e.g. waving a hand) over the sensor while starting the
+    data acquisition do no longer cause problems.
+  * Bugfix: LEDs now work properly if LTR11 shield is mounted on the backside.
+
+## 1.1.0
+
+- Initial support for BGT60LTR11
+  * The NVM of the BGT60LTR11 has to be initialized with the correct board id
+    or the BGT60LTR11 will not work.
+  * BGT60TRxx are not required to have the correct board id written in the NVM
+    yet. This might change in a future version.
+- BoardSupplementalEndpoint is now always exported
+- Driver has been upgraded to 0.8.12: Fixed rounding of test tone frequency
+
+## 1.0.9
+
+-  RF frequency limitation added to ensure to be within legal limits
+
+## 1.0.8
+
+- Increased Driver to 0.8.9: Fixed not-working RF power measurement
+
+## 1.0.7
+
+- The bootloader endpoint is now always exported, even if no shield is attached
+  or the shield is mirrored. This allows to flash the Hatvan board if no shield
+  is attached or the shield is mirrored.
+
+## 1.0.6
+
+- Bugfix and shorter update times for ATR24C.
+
+## 1.0.5
+
+- Support for BGT60ATR24
+
+## 1.0.4
+
+- Harware major number is now set to 2 by default
+
+## 1.0.3
+
+- Added support for enabling/disabling the power of the radar shield

@@ -1,0 +1,47 @@
+<map id="/home/build/sdk/c/ifxBase/Types.h" name="/home/build/sdk/c/ifxBase/Types.h">
+<area shape="rect" id="node1" title="Definitions of data types used within the SDK." alt="" coords="2105,5,2295,47"/>
+<area shape="rect" id="node2" href="$2_d_m_t_i_8h.html" title="API for 2D Moving Target Indicator filter (2DMTI)" alt="" coords="507,273,693,315"/>
+<area shape="rect" id="node5" href="$_d_b_s_c_a_n_8h.html" title="API for Density&#45;based spatial clustering of applications with noise (DBSCAN) algorithm." alt="" coords="144,95,331,136"/>
+<area shape="rect" id="node6" href="$_f_f_t_8h.html" title="API for Fast Fourier Transform (FFT)" alt="" coords="1080,184,1267,225"/>
+<area shape="rect" id="node7" href="$_preprocessed_f_f_t_8h.html" title="API for Pre&#45;processed FFT." alt="" coords="1080,273,1267,315"/>
+<area shape="rect" id="node8" href="$_range_doppler_map_8h.html" title="API for Range Doppler Map." alt="" coords="1494,363,1690,404"/>
+<area shape="rect" id="node10" href="$_range_angle_image_8h.html" title="API for Range Angle Image algorithm." alt="" coords="1443,541,1639,583"/>
+<area shape="rect" id="node11" href="$_range_spectrum_8h.html" title="API for Range Spectrum." alt="" coords="1073,363,1269,404"/>
+<area shape="rect" id="node12" href="$_presence_sensing_8h.html" title="API for Presence Sensing algorithm." alt="" coords="1715,541,1911,583"/>
+<area shape="rect" id="node13" href="$_spectrum_axis_8h.html" title="API for Spectrum Axis used by Range spectrum, Range Doppler and Range Angle Map modules." alt="" coords="1393,273,1589,315"/>
+<area shape="rect" id="node14" href="$_m_t_i_8h.html" title="API for Moving Target Indicator (MTI) filter." alt="" coords="496,184,683,225"/>
+<area shape="rect" id="node15" href="$_o_s_c_f_a_r_8h.html" title="API for 2D ordered statistic constant false alarm rate (OS&#45;CFAR) algorithm." alt="" coords="296,273,483,315"/>
+<area shape="rect" id="node16" href="$_signal_8h.html" title="API for digital filtering operations." alt="" coords="717,273,904,315"/>
+<area shape="rect" id="node17" href="$_window_8h.html" title="API for Window function processing." alt="" coords="1291,184,1477,225"/>
+<area shape="rect" id="node18" href="$_device_config_8h.html" title="API for Radar device configuration." alt="" coords="2437,363,2632,404"/>
+<area shape="rect" id="node21" href="$_device_control_8h.html" title="API for Radar device control operations." alt="" coords="2436,452,2631,493"/>
+<area shape="rect" id="node22" href="$_metrics_8h.html" title="API for Metrics." alt="" coords="2587,541,2781,583"/>
+<area shape="rect" id="node23" href="$_shapes_8h.html" title=" " alt="" coords="2805,541,3000,583"/>
+<area shape="rect" id="node24" href="$_segmentation_8h.html" title="API for Segmentation algorithm." alt="" coords="1869,452,2089,493"/>
+<area shape="rect" id="node26" href="$_base_8h.html" title="Header for ifxAvian." alt="" coords="3341,452,3531,493"/>
+<area shape="rect" id="node27" href="$_complex_8h.html" title="API for operations on complex numbers." alt="" coords="2758,363,2949,404"/>
+<area shape="rect" id="node28" href="$_angle_monopulse_8h.html" title="API for Phase Monopulse algorithm." alt="" coords="2215,452,2411,493"/>
+<area shape="rect" id="node29" href="$_l_a_8h.html" title="API for Linear Algebra (LA)" alt="" coords="3482,281,3705,307"/>
+<area shape="rect" id="node30" href="$_list_8h.html" title=" " alt="" coords="3126,363,3317,404"/>
+<area shape="rect" id="node31" href="$_log_8h.html" title="API for logging." alt="" coords="3267,273,3458,315"/>
+<area shape="rect" id="node33" href="$_math_8h.html" title="API for Mathematical operations." alt="" coords="1971,184,2162,225"/>
+<area shape="rect" id="node36" href="$_angle_capon_8h.html" title="API for Angle Capon algorithm." alt="" coords="1070,452,1266,493"/>
+<area shape="rect" id="node37" href="$_d_b_f_8h.html" title="API for Digital Beamforming (DBF) algorithm." alt="" coords="1342,452,1538,493"/>
+<area shape="rect" id="node38" href="$_matrix_8h.html" title="API for operations on Matrix data structures." alt="" coords="1603,184,1794,225"/>
+<area shape="rect" id="node39" href="$_mem_8h.html" title="API for memory management." alt="" coords="3514,95,3705,136"/>
+<area shape="rect" id="node40" href="$_uuid_8h.html" title=" " alt="" coords="3729,95,3919,136"/>
+<area shape="rect" id="node41" href="$_vector_8h.html" title="API for operations on Vector data structures." alt="" coords="1419,95,1610,136"/>
+<area shape="rect" id="node42" href="$_peak_search_8h.html" title="API for Peak Search preprocessing." alt="" coords="758,184,954,225"/>
+<area shape="rect" id="node43" href="$_version_8h.html" title="Version information of SDK." alt="" coords="3943,95,4134,136"/>
+<area shape="rect" id="node44" href="$_radar_device_common_8h.html" title="Header for ifxRadarDeviceCommon." alt="" coords="2387,273,2671,315"/>
+<area shape="rect" id="node45" href="$_target_8h.html" title="Definitions used by Tracker algorithm." alt="" coords="4158,95,4354,136"/>
+<area shape="rect" id="node3" href="$_algo_8h.html" title="Header for ifxAlgo." alt="" coords="507,363,693,404"/>
+<area shape="rect" id="node4" href="$_s_d_k_8h.html" title="Master header file for Radar SDK." alt="" coords="1902,720,2098,761"/>
+<area shape="rect" id="node9" href="$_radar_8h.html" title="Header for ifxRadar." alt="" coords="1375,631,1571,672"/>
+<area shape="rect" id="node19" href="$_avian_8h.html" title=" " alt="" coords="2477,631,2672,672"/>
+<area shape="rect" id="node20" href="$_constant_wave_control_8h.html" title="Header for Constant Wave Control. It provides APIs to use an Avian device in constant wave mode...." alt="" coords="2368,541,2563,583"/>
+<area shape="rect" id="node25" href="$_radar_segmentation_8h.html" title="Header for ifxRadarSegmentation." alt="" coords="1871,631,2129,672"/>
+<area shape="rect" id="node32" href="$_error_8h.html" title="API for error handling." alt="" coords="3341,363,3531,404"/>
+<area shape="rect" id="node34" href="$_defines_8h.html" title="Internal definitions used by standard math.h functions as Macros, to use float or double precision." alt="" coords="2747,273,2938,315"/>
+<area shape="rect" id="node35" href="$_cube_8h.html" title="API for operations on Cube data structures." alt="" coords="1867,363,2058,404"/>
+</map>

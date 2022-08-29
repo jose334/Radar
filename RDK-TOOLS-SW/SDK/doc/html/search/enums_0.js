@@ -1,0 +1,27 @@
+var searchData=
+[
+  ['ifx_5favian_5fadc_5foversampling_1922',['ifx_Avian_ADC_Oversampling',['../_device_config_8h.html#afe8c51c09073832d45e6ef1c6f50c20f',1,'DeviceConfig.h']]],
+  ['ifx_5favian_5fadc_5fsampletime_1923',['ifx_Avian_ADC_SampleTime',['../_device_config_8h.html#a2367ce17e7dbbfe2bfbe5ea043668aa6',1,'DeviceConfig.h']]],
+  ['ifx_5favian_5fadc_5ftracking_1924',['ifx_Avian_ADC_Tracking',['../_device_config_8h.html#a66b35836b2d10ffa18012ec76228b55a',1,'DeviceConfig.h']]],
+  ['ifx_5favian_5fbaseband_5fhp_5fgain_1925',['ifx_Avian_Baseband_Hp_Gain',['../_device_config_8h.html#affa82af939a045f20e5dc05029e9b18d',1,'DeviceConfig.h']]],
+  ['ifx_5favian_5fbaseband_5fvga_5fgain_1926',['ifx_Avian_Baseband_Vga_Gain',['../_device_config_8h.html#a1738057023b918cad6a644618dff79fb',1,'DeviceConfig.h']]],
+  ['ifx_5favian_5fmimo_5fmode_1927',['ifx_Avian_MIMO_Mode',['../_device_config_8h.html#a646cb8a93fcbd1d387e97bae17cac4d2',1,'DeviceConfig.h']]],
+  ['ifx_5favian_5fshape_5fpower_5fmode_1928',['ifx_Avian_Shape_Power_Mode',['../_shapes_8h.html#ae3ffe0fb5877b5aab0e00f48896433a4',1,'Shapes.h']]],
+  ['ifx_5favian_5ftest_5fsignal_5fgenerator_5fmode_1929',['ifx_Avian_Test_Signal_Generator_Mode',['../_device_config_8h.html#a7b0e4f1c3b907a0b4ae73c6a69bd5cee',1,'DeviceConfig.h']]],
+  ['ifx_5fboard_5ftype_5ft_1930',['ifx_Board_Type_t',['../group__gr__cat___radar___device___common.html#ga47772caad1762b0d7dd98e8a9a03f9d6',1,'RadarDeviceCommon.h']]],
+  ['ifx_5fbutterworth_5ftype_5ft_1931',['ifx_Butterworth_Type_t',['../group__gr__signal.html#gaf55e7087c4e9be49959c001d4a2e16e7',1,'Signal.h']]],
+  ['ifx_5fchirp_5fdirection_5ft_1932',['ifx_chirp_direction_t',['../_shapes_8h.html#ad4f8cabadad9fd8967cd9247b46a6dba',1,'Shapes.h']]],
+  ['ifx_5fcorrelate_5ftype_5ft_1933',['ifx_Correlate_Type_t',['../group__gr__signal.html#ga5d746a243a035a0fa4c196d27cafcfdd',1,'Signal.h']]],
+  ['ifx_5ferror_5fe_1934',['ifx_Error_e',['../_error_8h.html#a579b35c305c27de6f162e47dc7c43851',1,'Error.h']]],
+  ['ifx_5ffft_5ftype_5ft_1935',['ifx_FFT_Type_t',['../_f_f_t_8h.html#a50640235a580a81b42ceba51d9f36e7e',1,'FFT.h']]],
+  ['ifx_5flog_5fseverity_5ft_1936',['ifx_Log_Severity_t',['../_log_8h.html#aa600c10ee4c1b2f544c4d887aabea5f2',1,'Log.h']]],
+  ['ifx_5fmath_5fscale_5ftype_5ft_1937',['ifx_Math_Scale_Type_t',['../_math_8h.html#a327f1341dcd2d0c8efb67765187d63c2',1,'Math.h']]],
+  ['ifx_5forientation_5ft_1938',['ifx_Orientation_t',['../group__gr__segmentation.html#ga143b4e6687b393c6c8c446b2a64c63e0',1,'Segmentation.h']]],
+  ['ifx_5fpresencesensing_5fstate_5ft_1939',['ifx_PresenceSensing_State_t',['../_presence_sensing_8h.html#a33e99f12d27850649668748d3f3d470e',1,'PresenceSensing.h']]],
+  ['ifx_5fradar_5fsensor_5ft_1940',['ifx_Radar_Sensor_t',['../group__gr__cat___radar___device___common.html#ga35d013bb998e26a1130226e9d97879c9',1,'RadarDeviceCommon.h']]],
+  ['ifx_5frf_5fshield_5ftype_5ft_1941',['ifx_RF_Shield_Type_t',['../group__gr__cat___radar___device___common.html#ga28b287ec40fef4ecc1844d6a8f1b8496',1,'RadarDeviceCommon.h']]],
+  ['ifx_5frs_5fmode_5ft_1942',['ifx_RS_Mode_t',['../_range_spectrum_8h.html#af12d1111daaa47215a0ca3561c9eeaa4',1,'RangeSpectrum.h']]],
+  ['ifx_5fsegmentation_5fmode_5ft_1943',['ifx_Segmentation_Mode_t',['../group__gr__segmentation.html#gad17d6966ac466dcd6ecafab07f760c67',1,'Segmentation.h']]],
+  ['ifx_5fvector_5fsort_5forder_5ft_1944',['ifx_Vector_Sort_Order_t',['../_vector_8h.html#a4e108167ad7da59ac894ca26cd360a9b',1,'Vector.h']]],
+  ['ifx_5fwindow_5ftype_5ft_1945',['ifx_Window_Type_t',['../_window_8h.html#a4104d5848615f2111db1f3eaca27fd68',1,'Window.h']]]
+];
